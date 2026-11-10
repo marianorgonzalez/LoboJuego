@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: f733e8f518822d04ab9a31f0fcbce0cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 541708914746645459
+    second: Caminata_FromIdle_sprite_sheet_0
+  - first:
+      213: 1319246020862727074
+    second: Caminata_FromIdle_sprite_sheet_1
+  - first:
+      213: -8599686046107556845
+    second: Caminata_FromIdle_sprite_sheet_2
+  - first:
+      213: 6378434011343498269
+    second: Caminata_FromIdle_sprite_sheet_3
+  - first:
+      213: -2347491613707735565
+    second: Caminata_FromIdle_sprite_sheet_4
+  - first:
+      213: -3469626389049150217
+    second: Caminata_FromIdle_sprite_sheet_5
+  - first:
+      213: 2830998035722687808
+    second: Caminata_FromIdle_sprite_sheet_6
+  - first:
+      213: -3557853128335310619
+    second: Caminata_FromIdle_sprite_sheet_7
+  - first:
+      213: 4667941857600073590
+    second: Caminata_FromIdle_sprite_sheet_8
+  - first:
+      213: 8542069944813748215
+    second: Caminata_FromIdle_sprite_sheet_9
+  - first:
+      213: 930199719470539659
+    second: Caminata_FromIdle_sprite_sheet_10
+  - first:
+      213: -8371986952697362981
+    second: Caminata_FromIdle_sprite_sheet_11
+  - first:
+      213: 6239683422082817781
+    second: Caminata_FromIdle_sprite_sheet_12
+  - first:
+      213: 890961603080329539
+    second: Caminata_FromIdle_sprite_sheet_13
+  - first:
+      213: -8679817657129734531
+    second: Caminata_FromIdle_sprite_sheet_14
+  - first:
+      213: -9091189576886866959
+    second: Caminata_FromIdle_sprite_sheet_15
+  - first:
+      213: 7802509128909559068
+    second: Caminata_FromIdle_sprite_sheet_16
+  - first:
+      213: 8073864601681425853
+    second: Caminata_FromIdle_sprite_sheet_17
+  - first:
+      213: 8844922773267722902
+    second: Caminata_FromIdle_sprite_sheet_18
+  - first:
+      213: -2487700672679222698
+    second: Caminata_FromIdle_sprite_sheet_19
+  - first:
+      213: -6915886021691607677
+    second: Caminata_FromIdle_sprite_sheet_20
+  - first:
+      213: -680979157996950455
+    second: Caminata_FromIdle_sprite_sheet_21
+  - first:
+      213: -2754390473120721722
+    second: Caminata_FromIdle_sprite_sheet_22
+  - first:
+      213: -7820888104306032197
+    second: Caminata_FromIdle_sprite_sheet_23
+  - first:
+      213: 4634046129730411291
+    second: Caminata_FromIdle_sprite_sheet_24
+  - first:
+      213: -6903767621280409087
+    second: Caminata_FromIdle_sprite_sheet_25
+  - first:
+      213: -6773153093411870454
+    second: Caminata_FromIdle_sprite_sheet_26
+  - first:
+      213: 3247782634731584341
+    second: Caminata_FromIdle_sprite_sheet_27
+  - first:
+      213: 5441137606627523734
+    second: Caminata_FromIdle_sprite_sheet_28
+  - first:
+      213: 7893137237464673914
+    second: Caminata_FromIdle_sprite_sheet_29
+  - first:
+      213: 1072452092806397447
+    second: Caminata_FromIdle_sprite_sheet_30
+  - first:
+      213: -7368334589236849667
+    second: Caminata_FromIdle_sprite_sheet_31
+  - first:
+      213: -4434422743768461277
+    second: Caminata_FromIdle_sprite_sheet_32
+  - first:
+      213: -359623026594378960
+    second: Caminata_FromIdle_sprite_sheet_33
+  - first:
+      213: 2253166590214334869
+    second: Caminata_FromIdle_sprite_sheet_34
+  - first:
+      213: -4468057650484432370
+    second: Caminata_FromIdle_sprite_sheet_35
+  - first:
+      213: 1406477161873047389
+    second: Caminata_FromIdle_sprite_sheet_36
+  - first:
+      213: 27107527321002612
+    second: Caminata_FromIdle_sprite_sheet_37
+  - first:
+      213: 5205363505374614383
+    second: Caminata_FromIdle_sprite_sheet_38
+  - first:
+      213: -592064968628345091
+    second: Caminata_FromIdle_sprite_sheet_39
+  - first:
+      213: -2671343297665189607
+    second: Caminata_FromIdle_sprite_sheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 168
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbd22b4369848700800000000000000
+      internalID: 541708914746645459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3dedc2447ee4210800000000000000
+      internalID: 1319246020862727074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31420e9aa17c7a880800000000000000
+      internalID: -8599686046107556845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c266d50ffb48850800000000000000
+      internalID: 6378434011343498269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdedbb90d80c6fd0800000000000000
+      internalID: -2347491613707735565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f477699e2969dfc0800000000000000
+      internalID: -3469626389049150217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0455417d6b9b94720800000000000000
+      internalID: 2830998035722687808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0cf8a1e67ff9ec0800000000000000
+      internalID: -3557853128335310619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fed6e336cd7c040800000000000000
+      internalID: 4667941857600073590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fff9236b578b8670800000000000000
+      internalID: 8542069944813748215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a53967bbb8ec00800000000000000
+      internalID: 930199719470539659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5c444293ab0db80800000000000000
+      internalID: -8371986952697362981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed32c530fc79650800000000000000
+      internalID: 6239683422082817781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3499d148bd45d5c00800000000000000
+      internalID: 890961603080329539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e6e9714d71b8780800000000000000
+      internalID: -8679817657129734531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbaceb3f3b95d180800000000000000
+      internalID: -9091189576886866959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15956996b4184c60800000000000000
+      internalID: 7802509128909559068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db572dbf3112c0070800000000000000
+      internalID: 8073864601681425853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b26e566a7fba70800000000000000
+      internalID: 8844922773267722902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65264792b69e97dd0800000000000000
+      internalID: -2487700672679222698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857bf12e46d500a0800000000000000
+      internalID: -6915886021691607677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca524501dac86f0800000000000000
+      internalID: -680979157996950455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45be4457076c9d0800000000000000
+      internalID: -2754390473120721722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c2cab4bf967390800000000000000
+      internalID: -7820888104306032197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bda5b17607f4040800000000000000
+      internalID: 4634046129730411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10adcb91de3e030a0800000000000000
+      internalID: -6903767621280409087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e8d1b52de002a0800000000000000
+      internalID: -6773153093411870454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bbbda4911721d20800000000000000
+      internalID: 3247782634731584341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c7d0923ddc28b40800000000000000
+      internalID: 5441137606627523734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e6d727f7e0a8d60800000000000000
+      internalID: 7893137237464673914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e795e0f7d12ee00800000000000000
+      internalID: 1072452092806397447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3505eeaba6eb990800000000000000
+      internalID: -7368334589236849667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32094c55204c572c0800000000000000
+      internalID: -4434422743768461277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b8ace33cc520bf0800000000000000
+      internalID: -359623026594378960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e085731bd44f10800000000000000
+      internalID: 2253166590214334869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1f40db5a6e2043a7c90d89bcfda70
+      internalID: -4468057650484432370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf04bb982e314f4984b715d7ff1d017
+      internalID: 1406477161873047389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7336f78674de4a9ee875c96664c0b
+      internalID: 27107527321002612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ece7c8db98dc48a14d7d938ea20dd
+      internalID: 5205363505374614383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fa53ff5a069848812c7e323abc345
+      internalID: -592064968628345091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_FromIdle_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083aa330814bd84aab74f56b34bf3a7
+      internalID: -2671343297665189607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7f4a3368b828f94abda10ce515dc8eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":196.0,"y":296.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":5.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Caminata_FromIdle_sprite_sheet_0: 541708914746645459
+      Caminata_FromIdle_sprite_sheet_1: 1319246020862727074
+      Caminata_FromIdle_sprite_sheet_10: 930199719470539659
+      Caminata_FromIdle_sprite_sheet_11: -8371986952697362981
+      Caminata_FromIdle_sprite_sheet_12: 6239683422082817781
+      Caminata_FromIdle_sprite_sheet_13: 890961603080329539
+      Caminata_FromIdle_sprite_sheet_14: -8679817657129734531
+      Caminata_FromIdle_sprite_sheet_15: -9091189576886866959
+      Caminata_FromIdle_sprite_sheet_16: 7802509128909559068
+      Caminata_FromIdle_sprite_sheet_17: 8073864601681425853
+      Caminata_FromIdle_sprite_sheet_18: 8844922773267722902
+      Caminata_FromIdle_sprite_sheet_19: -2487700672679222698
+      Caminata_FromIdle_sprite_sheet_2: -8599686046107556845
+      Caminata_FromIdle_sprite_sheet_20: -6915886021691607677
+      Caminata_FromIdle_sprite_sheet_21: -680979157996950455
+      Caminata_FromIdle_sprite_sheet_22: -2754390473120721722
+      Caminata_FromIdle_sprite_sheet_23: -7820888104306032197
+      Caminata_FromIdle_sprite_sheet_24: 4634046129730411291
+      Caminata_FromIdle_sprite_sheet_25: -6903767621280409087
+      Caminata_FromIdle_sprite_sheet_26: -6773153093411870454
+      Caminata_FromIdle_sprite_sheet_27: 3247782634731584341
+      Caminata_FromIdle_sprite_sheet_28: 5441137606627523734
+      Caminata_FromIdle_sprite_sheet_29: 7893137237464673914
+      Caminata_FromIdle_sprite_sheet_3: 6378434011343498269
+      Caminata_FromIdle_sprite_sheet_30: 1072452092806397447
+      Caminata_FromIdle_sprite_sheet_31: -7368334589236849667
+      Caminata_FromIdle_sprite_sheet_32: -4434422743768461277
+      Caminata_FromIdle_sprite_sheet_33: -359623026594378960
+      Caminata_FromIdle_sprite_sheet_34: 2253166590214334869
+      Caminata_FromIdle_sprite_sheet_35: -4468057650484432370
+      Caminata_FromIdle_sprite_sheet_36: 1406477161873047389
+      Caminata_FromIdle_sprite_sheet_37: 27107527321002612
+      Caminata_FromIdle_sprite_sheet_38: 5205363505374614383
+      Caminata_FromIdle_sprite_sheet_39: -592064968628345091
+      Caminata_FromIdle_sprite_sheet_4: -2347491613707735565
+      Caminata_FromIdle_sprite_sheet_40: -2671343297665189607
+      Caminata_FromIdle_sprite_sheet_5: -3469626389049150217
+      Caminata_FromIdle_sprite_sheet_6: 2830998035722687808
+      Caminata_FromIdle_sprite_sheet_7: -3557853128335310619
+      Caminata_FromIdle_sprite_sheet_8: 4667941857600073590
+      Caminata_FromIdle_sprite_sheet_9: 8542069944813748215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

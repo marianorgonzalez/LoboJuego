@@ -3,7 +3,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 [RequireComponent(typeof(KinematicMover))]
-public class Player : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] float pressedInputBuffering = .2f;
     [Min(0.1f)][SerializeField] float maxSpeed = 4;
@@ -13,16 +13,10 @@ public class Player : MonoBehaviour
     [Min(0.1f)][SerializeField] float maxJumpHeight = 4;
     [Min(0.1f)][SerializeField] float minJumpHeight = 1;
     [Min(0.05f)][SerializeField] float timeToMaxJumpHeight = 0.4f;
-    bool isHuman = true;
     float gravity;
     float jumpImpulse;
     float cancelledJumpCutoffPoint;
 
-    [SerializeField] float shapeshiftCooldown;
-    float lastShapeshiftTime = Mathf.NegativeInfinity;
-    bool IsShapeshiftInCooldown => Time.time - lastShapeshiftTime <= shapeshiftCooldown;
-    bool ShapeshiftRequested => Time.time - shapeshiftPressTime <= pressedInputBuffering;
-    float shapeshiftPressTime = Mathf.NegativeInfinity;   
     Vector2 velocity = Vector2.zero;
     KinematicMover mover;
     float horizontalInput;
@@ -61,16 +55,10 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
             jumpPressedTime = Time.time;
         jumpHeld = Input.GetButton("Jump");
-        if (Input.GetButtonDown("Fire1"))
-            shapeshiftPressTime = Time.time;
     }
- 
+
     void FixedUpdate()
     {
-        if (IsShapeshiftInCooldown == false && ShapeshiftRequested)
-        {
-            ShapeShift();
-        }
         HandleJumping();
         velocity.y += gravity * Time.fixedDeltaTime;
         HandleWalking();
@@ -78,24 +66,9 @@ public class Player : MonoBehaviour
         AdjustVelocityAfterMoving();
     }
 
-    private void ShapeShift()
-    {
-        isHuman = !isHuman;
-        if (isHuman)
-        {
-            print("Te convertiste en hombre lobo!");
-        }
-        else
-        {
-            print("Te convertiste en humano!");
-        }
-        lastShapeshiftTime = Time.time;
-        shapeshiftPressTime = Mathf.NegativeInfinity;
-    }
-
     private void AdjustVelocityAfterMoving()
     {
-        if ((lastMoveResults.Grounded && velocity.y < 0) || 
+        if ((lastMoveResults.Grounded && velocity.y < 0) ||
             (lastMoveResults.HitCeiling && velocity.y > 0))
             velocity.y = 0;
         if (isJumping && velocity.y <= 0)

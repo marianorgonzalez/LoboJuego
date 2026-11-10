@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: b4202b3085f0c3b4a815406e3577e1f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -904191458913536320
+    second: Salta_sprite_sheet_0
+  - first:
+      213: -8180013535690716276
+    second: Salta_sprite_sheet_1
+  - first:
+      213: 6365026957960634724
+    second: Salta_sprite_sheet_2
+  - first:
+      213: 5138001878066356844
+    second: Salta_sprite_sheet_3
+  - first:
+      213: -160530957140947859
+    second: Salta_sprite_sheet_4
+  - first:
+      213: 3889504194057971513
+    second: Salta_sprite_sheet_5
+  - first:
+      213: -26853535880079846
+    second: Salta_sprite_sheet_6
+  - first:
+      213: -364262180531906577
+    second: Salta_sprite_sheet_7
+  - first:
+      213: 7924874235050886018
+    second: Salta_sprite_sheet_8
+  - first:
+      213: 5239105783676591190
+    second: Salta_sprite_sheet_9
+  - first:
+      213: 311804364159494609
+    second: Salta_sprite_sheet_10
+  - first:
+      213: 5737168252899272840
+    second: Salta_sprite_sheet_11
+  - first:
+      213: 7596738661491193569
+    second: Salta_sprite_sheet_12
+  - first:
+      213: -8587939581963387640
+    second: Salta_sprite_sheet_13
+  - first:
+      213: -1586822423793842100
+    second: Salta_sprite_sheet_14
+  - first:
+      213: 7161821134615595339
+    second: Salta_sprite_sheet_15
+  - first:
+      213: -884891510040218238
+    second: Salta_sprite_sheet_16
+  - first:
+      213: -1867220654092245699
+    second: Salta_sprite_sheet_17
+  - first:
+      213: 6098371590544782983
+    second: Salta_sprite_sheet_18
+  - first:
+      213: -4485055585914065195
+    second: Salta_sprite_sheet_19
+  - first:
+      213: -7940842296337302946
+    second: Salta_sprite_sheet_20
+  - first:
+      213: 160066057533263506
+    second: Salta_sprite_sheet_21
+  - first:
+      213: 1184857284668805720
+    second: Salta_sprite_sheet_22
+  - first:
+      213: 5731854645810762067
+    second: Salta_sprite_sheet_23
+  - first:
+      213: -1295003274141611085
+    second: Salta_sprite_sheet_24
+  - first:
+      213: 1532119096656243200
+    second: Salta_sprite_sheet_25
+  - first:
+      213: -5182209798795426145
+    second: Salta_sprite_sheet_26
+  - first:
+      213: -1992476226186631317
+    second: Salta_sprite_sheet_27
+  - first:
+      213: 3552088615523533826
+    second: Salta_sprite_sheet_28
+  - first:
+      213: -4118904459529053169
+    second: Salta_sprite_sheet_29
+  - first:
+      213: 938530965170166586
+    second: Salta_sprite_sheet_30
+  - first:
+      213: 156971208793610922
+    second: Salta_sprite_sheet_31
+  - first:
+      213: 4840078984337926810
+    second: Salta_sprite_sheet_32
+  - first:
+      213: 5042627855409160139
+    second: Salta_sprite_sheet_33
+  - first:
+      213: 3027245418714206232
+    second: Salta_sprite_sheet_34
+  - first:
+      213: -4645904515359313971
+    second: Salta_sprite_sheet_35
+  - first:
+      213: 1832193387403462659
+    second: Salta_sprite_sheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1760
+        width: 223
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c63482a8aaa373f0800000000000000
+      internalID: -904191458913536320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1761
+        width: 223
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b84436701ca7e80800000000000000
+      internalID: -8180013535690716276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1762
+        width: 223
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461670f7b4e155850800000000000000
+      internalID: 6365026957960634724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1763
+        width: 224
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626f6d5c79dd4740800000000000000
+      internalID: 5138001878066356844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1764
+        width: 224
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c092ce1fda5cdf0800000000000000
+      internalID: -160530957140947859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1761
+        width: 238
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937a73ff47b4af530800000000000000
+      internalID: 3889504194057971513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1757
+        width: 247
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1697e4f9d890aff0800000000000000
+      internalID: -26853535880079846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1405
+        width: 255
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7594c0a71e1faf0800000000000000
+      internalID: -364262180531906577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1402
+        width: 255
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2838ad5012fcafd60800000000000000
+      internalID: 7924874235050886018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1399
+        width: 245
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cdcb8c3fa05b840800000000000000
+      internalID: 5239105783676591190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1398
+        width: 232
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a42dca60c35400800000000000000
+      internalID: 311804364159494609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1397
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a5b211248e9f40800000000000000
+      internalID: 5737168252899272840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1396
+        width: 219
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6b8a930990d6960800000000000000
+      internalID: 7596738661491193569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1397
+        width: 221
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d3e88737281d880800000000000000
+      internalID: -8587939581963387640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1049
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c424b9697af9e0800000000000000
+      internalID: -1586822423793842100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1051
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49c5a18066e36360800000000000000
+      internalID: 7161821134615595339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1052
+        width: 225
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853b472cdb38b3f0800000000000000
+      internalID: -884891510040218238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1052
+        width: 232
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352f8345bc4616e0800000000000000
+      internalID: -1867220654092245699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1052
+        width: 234
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78671caa6a4c1a450800000000000000
+      internalID: 6098371590544782983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1051
+        width: 231
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dee5bb15b1e1c1c0800000000000000
+      internalID: -4485055585914065195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1051
+        width: 223
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5afa6df0067cc190800000000000000
+      internalID: -7940842296337302946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 702
+        width: 234
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e0ed33b3ba83200800000000000000
+      internalID: 160066057533263506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 702
+        width: 251
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852d73a3c65717010800000000000000
+      internalID: 1184857284668805720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 702
+        width: 262
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35119b38e63ab8f40800000000000000
+      internalID: 5731854645810762067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 702
+        width: 265
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb42d52269370ee0800000000000000
+      internalID: -1295003274141611085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 704
+        width: 263
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa9cd633e234510800000000000000
+      internalID: 1532119096656243200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 707
+        width: 258
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96004ff4a71518b0800000000000000
+      internalID: -5182209798795426145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 709
+        width: 249
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b672cbacd6d4954e0800000000000000
+      internalID: -1992476226186631317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 363
+        width: 237
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044dfaa6cd8b4130800000000000000
+      internalID: 3552088615523533826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 363
+        width: 235
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c9ff98736b6d6c0800000000000000
+      internalID: -4118904459529053169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 363
+        width: 232
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1ca5b0f4560d00800000000000000
+      internalID: 938530965170166586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 363
+        width: 230
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5b149b7cad2200800000000000000
+      internalID: 156971208793610922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 363
+        width: 228
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aab42413a6b2340800000000000000
+      internalID: 4840078984337926810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 363
+        width: 227
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf172841530bf540800000000000000
+      internalID: 5042627855409160139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 363
+        width: 227
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81093665bafe20a20800000000000000
+      internalID: 3027245418714206232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 225
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfef95557e668fb0800000000000000
+      internalID: -4645904515359313971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salta_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 15
+        width: 223
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c000bd224d6910800000000000000
+      internalID: 1832193387403462659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Salta_sprite_sheet_0: -904191458913536320
+      Salta_sprite_sheet_1: -8180013535690716276
+      Salta_sprite_sheet_10: 311804364159494609
+      Salta_sprite_sheet_11: 5737168252899272840
+      Salta_sprite_sheet_12: 7596738661491193569
+      Salta_sprite_sheet_13: -8587939581963387640
+      Salta_sprite_sheet_14: -1586822423793842100
+      Salta_sprite_sheet_15: 7161821134615595339
+      Salta_sprite_sheet_16: -884891510040218238
+      Salta_sprite_sheet_17: -1867220654092245699
+      Salta_sprite_sheet_18: 6098371590544782983
+      Salta_sprite_sheet_19: -4485055585914065195
+      Salta_sprite_sheet_2: 6365026957960634724
+      Salta_sprite_sheet_20: -7940842296337302946
+      Salta_sprite_sheet_21: 160066057533263506
+      Salta_sprite_sheet_22: 1184857284668805720
+      Salta_sprite_sheet_23: 5731854645810762067
+      Salta_sprite_sheet_24: -1295003274141611085
+      Salta_sprite_sheet_25: 1532119096656243200
+      Salta_sprite_sheet_26: -5182209798795426145
+      Salta_sprite_sheet_27: -1992476226186631317
+      Salta_sprite_sheet_28: 3552088615523533826
+      Salta_sprite_sheet_29: -4118904459529053169
+      Salta_sprite_sheet_3: 5138001878066356844
+      Salta_sprite_sheet_30: 938530965170166586
+      Salta_sprite_sheet_31: 156971208793610922
+      Salta_sprite_sheet_32: 4840078984337926810
+      Salta_sprite_sheet_33: 5042627855409160139
+      Salta_sprite_sheet_34: 3027245418714206232
+      Salta_sprite_sheet_35: -4645904515359313971
+      Salta_sprite_sheet_36: 1832193387403462659
+      Salta_sprite_sheet_4: -160530957140947859
+      Salta_sprite_sheet_5: 3889504194057971513
+      Salta_sprite_sheet_6: -26853535880079846
+      Salta_sprite_sheet_7: -364262180531906577
+      Salta_sprite_sheet_8: 7924874235050886018
+      Salta_sprite_sheet_9: 5239105783676591190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

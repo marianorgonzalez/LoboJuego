@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: b6de0afcd0c08fc42874c5bd1ca44423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6432483137969891529
+    second: Caminata_Loop_sprite_sheet_0
+  - first:
+      213: 638009761563799895
+    second: Caminata_Loop_sprite_sheet_1
+  - first:
+      213: 2920645788436746953
+    second: Caminata_Loop_sprite_sheet_2
+  - first:
+      213: -5341946067066955078
+    second: Caminata_Loop_sprite_sheet_3
+  - first:
+      213: 1267988470982369126
+    second: Caminata_Loop_sprite_sheet_4
+  - first:
+      213: -1147598247751951135
+    second: Caminata_Loop_sprite_sheet_5
+  - first:
+      213: 8360692223641256547
+    second: Caminata_Loop_sprite_sheet_6
+  - first:
+      213: -2861484069196142174
+    second: Caminata_Loop_sprite_sheet_7
+  - first:
+      213: 2168379466175014206
+    second: Caminata_Loop_sprite_sheet_8
+  - first:
+      213: -5054472596843627227
+    second: Caminata_Loop_sprite_sheet_9
+  - first:
+      213: 8052703761069240145
+    second: Caminata_Loop_sprite_sheet_10
+  - first:
+      213: 7828759210466455384
+    second: Caminata_Loop_sprite_sheet_11
+  - first:
+      213: 1248350253592262680
+    second: Caminata_Loop_sprite_sheet_12
+  - first:
+      213: -2941770406936027358
+    second: Caminata_Loop_sprite_sheet_13
+  - first:
+      213: 1210988503704852158
+    second: Caminata_Loop_sprite_sheet_14
+  - first:
+      213: 1505266884544341715
+    second: Caminata_Loop_sprite_sheet_15
+  - first:
+      213: -1930764560012994067
+    second: Caminata_Loop_sprite_sheet_16
+  - first:
+      213: -3486950687075514591
+    second: Caminata_Loop_sprite_sheet_17
+  - first:
+      213: -1191652851361187646
+    second: Caminata_Loop_sprite_sheet_18
+  - first:
+      213: -2246526466062399303
+    second: Caminata_Loop_sprite_sheet_19
+  - first:
+      213: -3335148085310629714
+    second: Caminata_Loop_sprite_sheet_20
+  - first:
+      213: -1187689983862466733
+    second: Caminata_Loop_sprite_sheet_21
+  - first:
+      213: -8643912861536327161
+    second: Caminata_Loop_sprite_sheet_22
+  - first:
+      213: 6502774335967570121
+    second: Caminata_Loop_sprite_sheet_23
+  - first:
+      213: -8502326770270173275
+    second: Caminata_Loop_sprite_sheet_24
+  - first:
+      213: 6708855190586409744
+    second: Caminata_Loop_sprite_sheet_25
+  - first:
+      213: 7782002286651056623
+    second: Caminata_Loop_sprite_sheet_26
+  - first:
+      213: -321227662987963791
+    second: Caminata_Loop_sprite_sheet_27
+  - first:
+      213: 6628043075835071696
+    second: Caminata_Loop_sprite_sheet_28
+  - first:
+      213: -992286472225315861
+    second: Caminata_Loop_sprite_sheet_29
+  - first:
+      213: 2385461004692420530
+    second: Caminata_Loop_sprite_sheet_30
+  - first:
+      213: -5731840922985007312
+    second: Caminata_Loop_sprite_sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 168
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8a26e4555c44950800000000000000
+      internalID: 6432483137969891529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fd317f7aaad800800000000000000
+      internalID: 638009761563799895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2538eced7388820800000000000000
+      internalID: 2920645788436746953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abadd27da589dd5b0800000000000000
+      internalID: -5341946067066955078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd138dbccc89110800000000000000
+      internalID: 1267988470982369126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1510
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec52e15979e210f0800000000000000
+      internalID: -1147598247751951135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3620282d745270470800000000000000
+      internalID: 8360692223641256547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ef1d5667f948d0800000000000000
+      internalID: -2861484069196142174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ec9bc2a1a71e10800000000000000
+      internalID: 2168379466175014206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d7032f3f7ead9b0800000000000000
+      internalID: -5054472596843627227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15febf7d763f0cf60800000000000000
+      internalID: 8052703761069240145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1209
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fabebf50755ac60800000000000000
+      internalID: 7828759210466455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818b2ac01f7035110800000000000000
+      internalID: 1248350253592262680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f52dba66bbc27d0800000000000000
+      internalID: -2941770406936027358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d866c0ab4ec010800000000000000
+      internalID: 1210988503704852158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ac699148c3e410800000000000000
+      internalID: 1505266884544341715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9138fbcdb8435e0800000000000000
+      internalID: -1930764560012994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 908
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274f8323dcdb9fc0800000000000000
+      internalID: -3486950687075514591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f80b9b06667fe0800000000000000
+      internalID: -1191652851361187646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b846dbe41cb2d0e0800000000000000
+      internalID: -2246526466062399303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85cbd9c7c27b1d0800000000000000
+      internalID: -3335148085310629714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579698904a748fe0800000000000000
+      internalID: -1187689983862466733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a62b2cc07aa0880800000000000000
+      internalID: -8643912861536327161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 607
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8afdd2ece7e3a50800000000000000
+      internalID: 6502774335967570121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a780c589daa10a80800000000000000
+      internalID: -8502326770270173275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01340743044aa1d50800000000000000
+      internalID: 6708855190586409744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12d1159d93ffb60800000000000000
+      internalID: 7782002286651056623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d2977425ca8bf0800000000000000
+      internalID: -321227662987963791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc03238f0a8bfb50800000000000000
+      internalID: 6628043075835071696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 306
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3a59bf5b0ba32f0800000000000000
+      internalID: -992286472225315861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7fc32252cda1120800000000000000
+      internalID: 2385461004692420530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata_Loop_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 196
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0377e649c096470b0800000000000000
+      internalID: -5731840922985007312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57936035906418e45b202673cb97400e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":196.0,"y":296.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":5.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Caminata_Loop_sprite_sheet_0: 6432483137969891529
+      Caminata_Loop_sprite_sheet_1: 638009761563799895
+      Caminata_Loop_sprite_sheet_10: 8052703761069240145
+      Caminata_Loop_sprite_sheet_11: 7828759210466455384
+      Caminata_Loop_sprite_sheet_12: 1248350253592262680
+      Caminata_Loop_sprite_sheet_13: -2941770406936027358
+      Caminata_Loop_sprite_sheet_14: 1210988503704852158
+      Caminata_Loop_sprite_sheet_15: 1505266884544341715
+      Caminata_Loop_sprite_sheet_16: -1930764560012994067
+      Caminata_Loop_sprite_sheet_17: -3486950687075514591
+      Caminata_Loop_sprite_sheet_18: -1191652851361187646
+      Caminata_Loop_sprite_sheet_19: -2246526466062399303
+      Caminata_Loop_sprite_sheet_2: 2920645788436746953
+      Caminata_Loop_sprite_sheet_20: -3335148085310629714
+      Caminata_Loop_sprite_sheet_21: -1187689983862466733
+      Caminata_Loop_sprite_sheet_22: -8643912861536327161
+      Caminata_Loop_sprite_sheet_23: 6502774335967570121
+      Caminata_Loop_sprite_sheet_24: -8502326770270173275
+      Caminata_Loop_sprite_sheet_25: 6708855190586409744
+      Caminata_Loop_sprite_sheet_26: 7782002286651056623
+      Caminata_Loop_sprite_sheet_27: -321227662987963791
+      Caminata_Loop_sprite_sheet_28: 6628043075835071696
+      Caminata_Loop_sprite_sheet_29: -992286472225315861
+      Caminata_Loop_sprite_sheet_3: -5341946067066955078
+      Caminata_Loop_sprite_sheet_30: 2385461004692420530
+      Caminata_Loop_sprite_sheet_31: -5731840922985007312
+      Caminata_Loop_sprite_sheet_4: 1267988470982369126
+      Caminata_Loop_sprite_sheet_5: -1147598247751951135
+      Caminata_Loop_sprite_sheet_6: 8360692223641256547
+      Caminata_Loop_sprite_sheet_7: -2861484069196142174
+      Caminata_Loop_sprite_sheet_8: 2168379466175014206
+      Caminata_Loop_sprite_sheet_9: -5054472596843627227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: d931142ce7441414dbbeeef1dadfa847
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6020433750555366693
+    second: Doble_Salto_sprite_sheet_0
+  - first:
+      213: -1405892165104101834
+    second: Doble_Salto_sprite_sheet_1
+  - first:
+      213: 293320833903498950
+    second: Doble_Salto_sprite_sheet_2
+  - first:
+      213: 7764889577901819337
+    second: Doble_Salto_sprite_sheet_3
+  - first:
+      213: -2464594021800255671
+    second: Doble_Salto_sprite_sheet_4
+  - first:
+      213: -3569947210999805421
+    second: Doble_Salto_sprite_sheet_5
+  - first:
+      213: -8130173647781406597
+    second: Doble_Salto_sprite_sheet_6
+  - first:
+      213: 7554607199155208367
+    second: Doble_Salto_sprite_sheet_7
+  - first:
+      213: 781479560531800567
+    second: Doble_Salto_sprite_sheet_8
+  - first:
+      213: 50204264539269645
+    second: Doble_Salto_sprite_sheet_9
+  - first:
+      213: -4435965031707522301
+    second: Doble_Salto_sprite_sheet_10
+  - first:
+      213: 5855019561864987723
+    second: Doble_Salto_sprite_sheet_11
+  - first:
+      213: 6034079841439342100
+    second: Doble_Salto_sprite_sheet_12
+  - first:
+      213: 4551762826290846981
+    second: Doble_Salto_sprite_sheet_13
+  - first:
+      213: -5503180416075606436
+    second: Doble_Salto_sprite_sheet_14
+  - first:
+      213: 1893945650512932689
+    second: Doble_Salto_sprite_sheet_15
+  - first:
+      213: -8576112557255870198
+    second: Doble_Salto_sprite_sheet_16
+  - first:
+      213: -1929863594087734650
+    second: Doble_Salto_sprite_sheet_17
+  - first:
+      213: -4336617259336708966
+    second: Doble_Salto_sprite_sheet_18
+  - first:
+      213: -7546598729277562878
+    second: Doble_Salto_sprite_sheet_19
+  - first:
+      213: -7974895674842675655
+    second: Doble_Salto_sprite_sheet_20
+  - first:
+      213: -7752143835645732173
+    second: Doble_Salto_sprite_sheet_21
+  - first:
+      213: 6107166031687159461
+    second: Doble_Salto_sprite_sheet_22
+  - first:
+      213: 2517768724496175011
+    second: Doble_Salto_sprite_sheet_23
+  - first:
+      213: 3708636232630289903
+    second: Doble_Salto_sprite_sheet_24
+  - first:
+      213: 736515966596505945
+    second: Doble_Salto_sprite_sheet_25
+  - first:
+      213: -3948497877265514429
+    second: Doble_Salto_sprite_sheet_26
+  - first:
+      213: -1645432910708993518
+    second: Doble_Salto_sprite_sheet_27
+  - first:
+      213: -6116764474264245576
+    second: Doble_Salto_sprite_sheet_28
+  - first:
+      213: 3510864945132290676
+    second: Doble_Salto_sprite_sheet_29
+  - first:
+      213: -6796012882362561278
+    second: Doble_Salto_sprite_sheet_30
+  - first:
+      213: -4855192932746179658
+    second: Doble_Salto_sprite_sheet_31
+  - first:
+      213: 5144765065097355759
+    second: Doble_Salto_sprite_sheet_32
+  - first:
+      213: 6894396203019553039
+    second: Doble_Salto_sprite_sheet_33
+  - first:
+      213: -3802399801306993145
+    second: Doble_Salto_sprite_sheet_34
+  - first:
+      213: 8412371033570384744
+    second: Doble_Salto_sprite_sheet_35
+  - first:
+      213: -9009239328964377809
+    second: Doble_Salto_sprite_sheet_36
+  - first:
+      213: 8392299529880603315
+    second: Doble_Salto_sprite_sheet_37
+  - first:
+      213: 6566908970922115158
+    second: Doble_Salto_sprite_sheet_38
+  - first:
+      213: 7165364041226164421
+    second: Doble_Salto_sprite_sheet_39
+  - first:
+      213: -7772521690882641399
+    second: Doble_Salto_sprite_sheet_40
+  - first:
+      213: 6461819649971054079
+    second: Doble_Salto_sprite_sheet_41
+  - first:
+      213: -5887246032562654645
+    second: Doble_Salto_sprite_sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1860
+        width: 155
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52510a73990ec8350800000000000000
+      internalID: 6020433750555366693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1859
+        width: 153
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636177a46844d7ce0800000000000000
+      internalID: -1405892165104101834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1858
+        width: 152
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61a0e8eb5121400800000000000000
+      internalID: 293320833903498950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1857
+        width: 152
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c588f25eed62cb60800000000000000
+      internalID: 7764889577901819337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1856
+        width: 150
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f5b0f8bc00ccdd0800000000000000
+      internalID: -2464594021800255671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1855
+        width: 166
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac57d0deff47ec0800000000000000
+      internalID: -3569947210999805421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1854
+        width: 176
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785fb19422db2f80800000000000000
+      internalID: -8130173647781406597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1545
+        width: 175
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0414bb83b57d860800000000000000
+      internalID: 7554607199155208367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1546
+        width: 161
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1f9b4158f58da00800000000000000
+      internalID: 781479560531800567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1545
+        width: 180
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa21a338c52b000800000000000000
+      internalID: 50204264539269645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1545
+        width: 183
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bc4017e494072c0800000000000000
+      internalID: -4435965031707522301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1545
+        width: 171
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b440de13545314150800000000000000
+      internalID: 5855019561864987723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1545
+        width: 152
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e565755ab5db350800000000000000
+      internalID: 6034079841439342100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1546
+        width: 153
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd4ea9c2c1b2f30800000000000000
+      internalID: 4551762826290846981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1238
+        width: 154
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c565de49196c0a3b0800000000000000
+      internalID: -5503180416075606436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1239
+        width: 155
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f28bad885a84a10800000000000000
+      internalID: 1893945650512932689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1242
+        width: 155
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a093ffe31178bf880800000000000000
+      internalID: -8576112557255870198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1242
+        width: 161
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822179394fb735e0800000000000000
+      internalID: -1929863594087734650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1242
+        width: 168
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c486a349d31d3c0800000000000000
+      internalID: -4336617259336708966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1243
+        width: 173
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002ff67078154790800000000000000
+      internalID: -7546598729277562878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1244
+        width: 179
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9360434f2aa735190800000000000000
+      internalID: -7974895674842675655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 935
+        width: 180
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba1a9c014ada6490800000000000000
+      internalID: -7752143835645732173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 935
+        width: 185
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae8b0f062301c450800000000000000
+      internalID: 6107166031687159461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 935
+        width: 192
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afce22b059e0f220800000000000000
+      internalID: 2517768724496175011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 936
+        width: 197
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5421f1109b77330800000000000000
+      internalID: 3708636232630289903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 933
+        width: 237
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95163609e51a83a00800000000000000
+      internalID: 736515966596505945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 932
+        width: 262
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408435c91e1439c0800000000000000
+      internalID: -3948497877265514429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 935
+        width: 249
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212147f4c7f3a29e0800000000000000
+      internalID: -1645432910708993518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 632
+        width: 232
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba20c06e13ec1ba0800000000000000
+      internalID: -6116764474264245576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 634
+        width: 234
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4724bf4f01919b030800000000000000
+      internalID: 3510864945132290676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 636
+        width: 237
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d0dc15a46bfa1a0800000000000000
+      internalID: -6796012882362561278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 638
+        width: 239
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4da760c3ee9cb0800000000000000
+      internalID: -4855192932746179658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 638
+        width: 241
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1a7fd8190e56740800000000000000
+      internalID: 5144765065097355759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 636
+        width: 237
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0948cd81d0ddaf50800000000000000
+      internalID: 6894396203019553039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 635
+        width: 234
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea415d6892b3bc0800000000000000
+      internalID: -3802399801306993145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 324
+        width: 230
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b9fb662eebeb470800000000000000
+      internalID: 8412371033570384744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 226
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2389943090c8f280800000000000000
+      internalID: -9009239328964377809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 322
+        width: 222
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba063745ff677470800000000000000
+      internalID: 8392299529880603315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 321
+        width: 216
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65083248ae8522b50800000000000000
+      internalID: 6566908970922115158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 321
+        width: 211
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c894abb1ac707360800000000000000
+      internalID: 7165364041226164421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 320
+        width: 206
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902fbe5e3b4722490800000000000000
+      internalID: -7772521690882641399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 320
+        width: 202
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e9274cbefca950800000000000000
+      internalID: 6461819649971054079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doble_Salto_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 197
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4276c3ecec4c4ea0800000000000000
+      internalID: -5887246032562654645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Doble_Salto_sprite_sheet_0: 6020433750555366693
+      Doble_Salto_sprite_sheet_1: -1405892165104101834
+      Doble_Salto_sprite_sheet_10: -4435965031707522301
+      Doble_Salto_sprite_sheet_11: 5855019561864987723
+      Doble_Salto_sprite_sheet_12: 6034079841439342100
+      Doble_Salto_sprite_sheet_13: 4551762826290846981
+      Doble_Salto_sprite_sheet_14: -5503180416075606436
+      Doble_Salto_sprite_sheet_15: 1893945650512932689
+      Doble_Salto_sprite_sheet_16: -8576112557255870198
+      Doble_Salto_sprite_sheet_17: -1929863594087734650
+      Doble_Salto_sprite_sheet_18: -4336617259336708966
+      Doble_Salto_sprite_sheet_19: -7546598729277562878
+      Doble_Salto_sprite_sheet_2: 293320833903498950
+      Doble_Salto_sprite_sheet_20: -7974895674842675655
+      Doble_Salto_sprite_sheet_21: -7752143835645732173
+      Doble_Salto_sprite_sheet_22: 6107166031687159461
+      Doble_Salto_sprite_sheet_23: 2517768724496175011
+      Doble_Salto_sprite_sheet_24: 3708636232630289903
+      Doble_Salto_sprite_sheet_25: 736515966596505945
+      Doble_Salto_sprite_sheet_26: -3948497877265514429
+      Doble_Salto_sprite_sheet_27: -1645432910708993518
+      Doble_Salto_sprite_sheet_28: -6116764474264245576
+      Doble_Salto_sprite_sheet_29: 3510864945132290676
+      Doble_Salto_sprite_sheet_3: 7764889577901819337
+      Doble_Salto_sprite_sheet_30: -6796012882362561278
+      Doble_Salto_sprite_sheet_31: -4855192932746179658
+      Doble_Salto_sprite_sheet_32: 5144765065097355759
+      Doble_Salto_sprite_sheet_33: 6894396203019553039
+      Doble_Salto_sprite_sheet_34: -3802399801306993145
+      Doble_Salto_sprite_sheet_35: 8412371033570384744
+      Doble_Salto_sprite_sheet_36: -9009239328964377809
+      Doble_Salto_sprite_sheet_37: 8392299529880603315
+      Doble_Salto_sprite_sheet_38: 6566908970922115158
+      Doble_Salto_sprite_sheet_39: 7165364041226164421
+      Doble_Salto_sprite_sheet_4: -2464594021800255671
+      Doble_Salto_sprite_sheet_40: -7772521690882641399
+      Doble_Salto_sprite_sheet_41: 6461819649971054079
+      Doble_Salto_sprite_sheet_42: -5887246032562654645
+      Doble_Salto_sprite_sheet_5: -3569947210999805421
+      Doble_Salto_sprite_sheet_6: -8130173647781406597
+      Doble_Salto_sprite_sheet_7: 7554607199155208367
+      Doble_Salto_sprite_sheet_8: 781479560531800567
+      Doble_Salto_sprite_sheet_9: 50204264539269645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
